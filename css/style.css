@@ -74,7 +74,7 @@ ul {
 .header-menu-item {
     text-decoration: none;
     font-style: normal;
-    color: var(--color-navyblue);
+    color: #2e2f42;
 
     font-family: Roboto;
     font-size: 16px;
@@ -85,11 +85,11 @@ ul {
 }
 
 .header-menu-item:focus {
-    color: var(--color-ocean);
+    color: #404bbf;
 }
 
 .header-menu-item:hover {
-    color: var(--color-ocean);
+    color: #404bbf;
 }
 
 .address {
