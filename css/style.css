@@ -74,21 +74,18 @@ ul {
 .header-menu-item {
     text-decoration: none;
     font-style: normal;
-    color: #2e2f42;
-
+        color: var(--color-navyblue);
     font-family: Roboto;
     font-size: 16px;
-
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
-
-.header-menu-item:focus {
+.header-menu-item:hover {
     color: #404bbf;
 }
 
-.header-menu-item:hover {
+.header-menu-item:focus {
     color: #404bbf;
 }
 
